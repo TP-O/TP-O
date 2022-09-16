@@ -1,5 +1,5 @@
-<h1 align="left" id="tp-o-title">:wave: Hello there! I'm Jacob Colvin</h1>
-<h3 align="left">I am a Versatilist, doing SW/SR/DevOps Engineering things</h3>
+<h1 align="left" id="tp-o-title">:wave: Hello</h1>
+<h3 align="left">I am Phong</h3>
 
 <p align="left">
   <a href="https://github.com/TP-O/TP-O">
@@ -11,13 +11,18 @@
 </p>
 
 <a href="#tp-o-title">
-  <img src="https://raw.githubusercontent.com/TP-O/github-stats/master/generated/overview.svg" alt="tp-o" align="right" />
-
-  <img src="https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg" alt="tp-o" align="right">
+  <img src="./generated/overview.svg" alt="tp-o" align="right">
 </a>
 
+- :office: &nbsp;I’m currently working on Go, Typescript projects
 - :seedling: &nbsp;I’m currently learning **Go** and **Rust**
+- :computer: &nbsp;I'm currently using Ubuntu to development
 
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 
 <h2 align="left" id="TP-O-tech">Favorite Tech</h2>
@@ -28,113 +33,45 @@
   <tr>
     <td align="center" width="96">
       <a href="#tp-o-tech">
-        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
+        <img src="./img/ts.svg" width="48" height="48" alt="TS" />
       </a>
-      <br>C#&nbsp;(Core)
+      <br>Typescript
     </td>
     <td align="center" width="96">
       <a href="#tp-o-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="./img/php.svg" width="48" height="48" alt="PHP" />
       </a>
-      <br>Python
+      <br>PHP
     </td>
     <td align="center" width="96">
       <a href="#tp-o-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+        <img src="./img/go.svg" width="48" height="48" alt="Go" />
       </a>
       <br>Go
     </td>
     <td align="center" width="96">
       <a href="#tp-o-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="./img/rust.svg" width="48" height="48" alt="Rust" />
       </a>
-      <br>Jsonnet
+      <br>Rust
     </td>
     <td align="center" width="96">
       <a href="#tp-o-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./img/vue.svg" width="48" height="48" alt="Vue" />
       </a>
-      <br>TypeScript
+      <br>Vue.js
     </td>
     <td align="center" width="96">
       <a href="#tp-o-tech">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="tp-o-tech" >
-        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
+        <img src="./img/react.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
     </td>
     <td align="center" width="96">
-      <a href="tp-o-tech">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="tp-o-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Sass
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96"> 
-      <a href="tp-o-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+      <a href="#tp-o-tech">
+        <img src="./img/docker.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="tp-o-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
-    </td>
-    <td align="center"  width="96">
-      <a href="tp-o-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
-    </td>
-    <td align="center"  width="96">
-      <a href="tp-o-tech">
-        <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
-      </a>
-      <br>RHEL
-    </td>
-    <td align="center" width="96">
-      <a href="tp-o-tech">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
-      </a>
-      <br>Powershell
-    </td>
-    <td align="center"  width="96">
-      <a href="tp-o-tech">
-        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <a href="tp-o-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
-    </td>
-    <td align="center" width="96">
-      <a href="tp-o-tech" >
-        <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
-      </a>
-      <br>Prometheus
-    </td>
-    <td align="center" width="96">
-      <a href="tp-o-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
-      </a>
-      <br>Thanos
     </td>
   </tr>
 </table>
