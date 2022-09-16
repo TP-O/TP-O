@@ -11,67 +11,30 @@
 </p>
 
 <a href="#tp-o-title">
-  <img src="./generated/overview.svg" alt="tp-o" align="right">
+  <img src="https://raw.githubusercontent.com/TP-O/TP-O/output/generated/overview.svg" alt="tp-o" align="right">
 </a>
 
 - :office: &nbsp;I’m currently working on Go, Typescript projects
 - :seedling: &nbsp;I’m currently learning **Go** and **Rust**
 - :computer: &nbsp;I'm currently using Ubuntu to development
+- :grinning:
+- :smiley:
 
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
-<h2 align="left" id="TP-O-tech">Favorite Tech</h2>
+<h2 align="left" id="TP-O-tech">Tech</h2>
 
-> Tools, languages, and other things that I like to work with.
+> Things I code with.
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#tp-o-tech">
-        <img src="./img/ts.svg" width="48" height="48" alt="TS" />
-      </a>
-      <br>Typescript
-    </td>
-    <td align="center" width="96">
-      <a href="#tp-o-tech">
-        <img src="./img/php.svg" width="48" height="48" alt="PHP" />
-      </a>
-      <br>PHP
-    </td>
-    <td align="center" width="96">
-      <a href="#tp-o-tech">
-        <img src="./img/go.svg" width="48" height="48" alt="Go" />
-      </a>
-      <br>Go
-    </td>
-    <td align="center" width="96">
-      <a href="#tp-o-tech">
-        <img src="./img/rust.svg" width="48" height="48" alt="Rust" />
-      </a>
-      <br>Rust
-    </td>
-    <td align="center" width="96">
-      <a href="#tp-o-tech">
-        <img src="./img/vue.svg" width="48" height="48" alt="Vue" />
-      </a>
-      <br>Vue.js
-    </td>
-    <td align="center" width="96">
-      <a href="#tp-o-tech">
-        <img src="./img/react.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#tp-o-tech">
-        <img src="./img/docker.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-  </tr>
-</table>
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Go" src="https://img.shields.io/badge/-Go-2DAED8?style=flat-square&logo=go&logoColor=white" />
+  <img alt="Rust" src="https://img.shields.io/badge/-Rust-E43F21?style=flat-square&logo=rust&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-777CB5?style=flat-square&logo=php&logoColor=white" />
+  <img alt="Vue" src="https://img.shields.io/badge/Vue.js-52BA85?style=flat-square&logo=vuedotjs&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-78B362?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2D69E0?style=flat-square&logo=github-actions&logoColor=white" />
+</p>
