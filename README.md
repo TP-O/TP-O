@@ -1,14 +1,14 @@
 <h1 align="left" id="tp-o-title">:wave: Hello</h1>
 <h3 align="left">I am Phong</h3>
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/TP-O/TP-O">
     <img src="https://komarev.com/ghpvc/?username=TP-O" alt="page views" />
   </a>
   <a href="https://github.com/TP-O?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/TP-O?color=green&logo=github">
   </a>
-</p>
+</p> -->
 
 <a href="#tp-o-title">
   <img src="https://raw.githubusercontent.com/TP-O/TP-O/output/generated/overview.svg" alt="tp-o" align="right">
@@ -24,7 +24,7 @@
 
 <h2 align="left" id="TP-O-tech">Tech</h2>
 
-> Things I code with.
+> Things I work with.
 
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
