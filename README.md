@@ -10,18 +10,6 @@
   </a>
 </p> -->
 
-<a href="#tp-o-title">
-  <img src="https://raw.githubusercontent.com/TP-O/TP-O/output/generated/overview.svg" alt="tp-o" align="right">
-</a>
-
-- :office: &nbsp;I’m currently working on Go, Typescript projects
-- :seedling: &nbsp;I’m currently learning **Go** and **Rust**
-- :computer: &nbsp;I'm currently using Ubuntu to development
-- :grinning:
-- :smiley:
-
-<br>
-
 <h2 align="left" id="TP-O-tech">Tech</h2>
 
 > Things I work with.
